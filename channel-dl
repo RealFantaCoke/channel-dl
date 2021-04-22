@@ -1,0 +1,2 @@
+#!/bin/bash
+/usr/bin/youtube-dl -ciw -o "%(title)s.%(ext)s" $@
