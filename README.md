@@ -1,6 +1,6 @@
 # channel-dl
 Download a entire YouTube Channel.
-##### This script require youtube-dl to work.
+#### /!\ This script require youtube-dl to work.
 
 ## Installation command:
 ```
